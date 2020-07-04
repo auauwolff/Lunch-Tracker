@@ -1,0 +1,31 @@
+@import "layout"; //Typography, resets, normalize
+@import "meal-svg"; // Meal rotating css
+@import "total"; //Total and Pay buttom styles
+@import "lunch-list"; // List/ History of the meals
+@import "lunch-form"; // Input form itens
+@import "footer";
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+}
+
+.container{
+    width: 100%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
